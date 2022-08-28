@@ -1,0 +1,80 @@
+body {
+
+/* background-image: linear-gradient(to right, violet , purple); */
+background-image: linear-gradient(to right, lightblue, pink, white);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Main{
+    text-align: center;
+    color: orange;
+    margin-top: 40px;
+    font-weight: bolder;
+    
+}
+.vin{
+    color:chartreuse;
+}
+.fun{
+  background-color:aqua; 
+  border:none;
+  font-weight: bolder;
+  font-size: 20px;
+  height: 60px;
+  width: 400px;
+  text-align: center;
+  border-radius: 60px ;
+  position: absolute;
+  top: 200px;
+  left: 450px;
+  cursor: pointer;
+  
+  
+}
+.fun:hover{
+height:65px;
+background-color: chocolate;
+}
+.funny{
+background-color:hotpink ;
+border: none;
+height: 250px;
+width: 500px;
+padding: 20px;
+text-align: center;
+border-radius:40px ;
+margin-left: 290px;
+margin-top: 350px;
+}
+.classical{
+background-color: aqua;
+border: none;
+font-size: 20px;
+font-weight: bolder;
+height: 60px;
+width: 400px;
+text-align: center;
+border-radius: 50px ;
+position: absolute;
+top: 200px;
+right: 450px;
+}
+.classical:hover{
+    cursor: pointer;
+    height: 65px;
+    background-color: chocolate;
+
+
+}
+.Classic{
+background-color:purple;
+border: none;
+height: 250px;
+width: 500px;
+padding: 25px;
+text-align: center;
+border-radius:40px ;
+margin-left: 1050px;
+margin-top: 350px;
+}
